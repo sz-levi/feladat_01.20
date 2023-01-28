@@ -1,0 +1,17 @@
+body{
+    background: #87CEFA;
+    color: #00008B;
+}
+a{
+    color: #B22222;
+}
+h1{
+    text-align: center;
+}
+.abc{
+    font-style: oblique;
+    font-weight: bold;
+}
+table{
+    width: 100%;
+}
